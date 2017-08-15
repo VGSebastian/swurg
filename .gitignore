@@ -1,9 +1,4 @@
-build/
-swurg.jar
-*.swp
-.classpath
+.idea/workspace.xml
+.idea/tasks.xml
 .gradle/
-.project
-.settings/
-.vscode/
-bin/
+build/
