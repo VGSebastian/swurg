@@ -13,7 +13,7 @@ dependencies {
 }
 
 test {
-    testLogging.showStandardStreams = true   
+    testLogging.showStandardStreams = true
 }
 
 task fatJar(type: Jar) {
